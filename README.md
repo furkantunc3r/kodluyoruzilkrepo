@@ -26,3 +26,5 @@ Pull requestler kabul edilebilir. Buyuk degisiklikler icin, lutfen once neyi deg
 # Licence
 
 [MIT](https://opensource.org/license/mit/)
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
