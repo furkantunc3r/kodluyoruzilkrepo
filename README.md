@@ -6,7 +6,9 @@ Bu repo [Patika.dev](https://kodluyoruz.org/) Cobol Egitiminde olusturdugumuz il
 
 Oncelikle projeyi clonelayin
 
-```https://github.com/furkantunc3r/kodluyoruzilkrepo```
+```
+https://github.com/furkantunc3r/kodluyoruzilkrepo
+```
 
 # Usage
 
