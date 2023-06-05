@@ -1,12 +1,14 @@
 # Kodluyoruz Ilk repo
 
-Bu repo [Patika.dev Cobol](https://kodluyoruz.org/) Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
+Bu repo [Patika.dev](https://kodluyoruz.org/) Cobol Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
 # Installation
 
 Oncelikle projeyi clonelayin
 
-`https://github.com/furkantunc3r/kodluyoruzilkrepo`
+```
+https://github.com/furkantunc3r/kodluyoruzilkrepo
+```
 
 # Usage
 
